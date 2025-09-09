@@ -10,8 +10,7 @@
 
 ### 🛠️ Tech Stack  
 - **Languages**: C, Python, HTML, CSS  
-- **Database**: MySQL  
-- **AI/ML**: Machine Learning, Deep Learning, CNN, LSTM, Computer Vision (OpenCV), NLP  
+- **Database**: MySQL   
 - **Libraries/Frameworks**: NumPy, Pandas, Matplotlib, Scikit-Learn   
 - **Other Tools**: Git, GitHub, VS Code ,Postman
 
