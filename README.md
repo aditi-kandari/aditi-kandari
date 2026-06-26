@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 - 💻 Passionate about **AI/ML, Full-Stack Development, and Problem Solving**  
-- 📚 Currently learning **DSA in c++, CNN-LSTM for Computer Vision, and Full-Stack Development**    
+      
 - 🎯 Goal: To build impactful projects that solve real-world problems  
 
 
