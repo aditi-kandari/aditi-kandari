@@ -17,11 +17,5 @@
 
 ---
 
-### 📌 Featured Projects  
-- 🐾 **PawCare-Connect** – AI-powered platform to help stray animals (NGOs, chatbots, telemedicine, lost & found)  
-- 🌦️ **Weather Forecast App** – Web application that fetches and displays real-time weather data using APIs  
-
-
----
 
  
